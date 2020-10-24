@@ -1,4 +1,4 @@
-<?php /* MÇ - PDO - Database Class with prepared statements - Last Modified at 11-08-2020 */
+<?php /* MÇ - PDO - Database Class with prepared statements - Last Modified at 11-08-2020 - https://github.com/mcakici */
 class db {
     private $connection;
     private $querystring;

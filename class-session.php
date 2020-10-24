@@ -1,5 +1,5 @@
 <?php /* MEMORY storage engine table max size = "max_heap_table_size" default 16mb approx 7-10k records */
-/* Last modified at 23-08-2020 - MÇ - Secure php session handler */
+/* Last modified at 23-08-2020 - MÇ - Secure php session handler - Github: https://github.com/mcakici */
 class Session {
     # SETTINGS
     private $sessionCookieName = "uSess";
